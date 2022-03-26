@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi, I'm trev!
+
+I'm an aspiring Python developer who's looking forward to improving his abilities!
+
+- Discord: trev#1662
+- Languages: Python, C++
 
 <!--
 **trev-git/trev-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +16,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
